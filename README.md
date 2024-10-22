@@ -1,3 +1,3 @@
 ### Test IaC
 
-- [ ] 241022 test
+- [x] 241022 test
